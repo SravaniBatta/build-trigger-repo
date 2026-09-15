@@ -1,6 +1,6 @@
 import {test,expect} from '@playwright/test';
 
-test.skip('alerts with Ok button', async ({ page }) => {
+test('alerts with Ok button', async ({ page }) => {
 
     await page.goto('https://testautomationpractice.blogspot.com/');
 
@@ -19,7 +19,7 @@ test.skip('alerts with Ok button', async ({ page }) => {
   
     });
 
-    test.skip('confirmation dialog with Ok and cancel button', async ({ page }) => {
+    test('confirmation dialog with Ok and cancel button', async ({ page }) => {
 
     await page.goto('https://testautomationpractice.blogspot.com/');
 
