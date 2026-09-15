@@ -1,0 +1,177 @@
+- generic [ref=f5e1]:
+  - main [ref=f5e3]:
+    - generic [ref=f5e7]:
+      - img "Logo" [ref=f5e10] [cursor=pointer]
+      - generic [ref=f5e12]:
+        - generic [ref=f5e14]:
+          - link [ref=f5e957] [cursor=pointer]:
+            - /url: https://test.cloudidd.com/autologin?user=KranthiD&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiS3JhbnRoaUQiLCJ1bml0X2lkIjoiMjEyIiwidW5pdElEIjoiMjEyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjpbIlVuaXRfTWFuYWdlciIsIlNlcnZpY2VfVXNlciIsIlVuaXRfQWRtaW4iLCJVbml0X1JldHJhbnMiLCJVbml0X0ZpbmFuY2lhbE1hbmFnZXIiLCJVbml0X1Byb2R1Y3RNYW5hZ2VyIiwiQ29udGVudF9BZG1pbiJdLCJleHAiOjE3ODkwNzM2OTEsImlzcyI6InN3YW4tYXBpIiwiYXVkIjoic3dhbi1jbGllbnRzIn0._V_gWA9Y-1Lj2_1wFdbRotUgIOfcT9SR1LVnzEYW_Eg
+            - button "icon IDD" [ref=f5e958]:
+              - generic "icon" [ref=f5e960]: public
+              - generic [ref=f5e962]: IDD
+          - link [ref=f5e963] [cursor=pointer]:
+            - /url: https://auth-tst.interflorabeta.co.uk/samlp/mncaaObwaBVvObIE4q8KVA1EpcQkWSoj
+            - button "icon Delivery" [ref=f5e964]:
+              - generic "icon" [ref=f5e966]: local_shipping_outlined
+              - generic [ref=f5e968]: Delivery
+          - link [ref=f5e969] [cursor=pointer]:
+            - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+            - button "Florist Hub" [ref=f5e970]
+        - generic [ref=f5e32]:
+          - button "Go to messages" [ref=f5e33] [cursor=pointer]:
+            - generic [ref=f5e34]: 99+
+          - generic [ref=f5e39]:
+            - generic [ref=f5e40]: You are logged in as 1305a
+            - generic [ref=f5e41]: Charmaine Of Southsea
+          - button "icon" [ref=f5e43] [cursor=pointer]:
+            - generic [ref=f5e972]: person
+      - generic [ref=f5e46]:
+        - button "Open Order Calendar" [ref=f5e48] [cursor=pointer]:
+          - generic [ref=f5e49]: event_calendar
+        - generic [ref=f5e50]: "75"
+    - generic [ref=f5e52]:
+      - generic [ref=f5e53]:
+        - generic [ref=f5e54]:
+          - button "icon Create Order" [ref=f5e55] [cursor=pointer]:
+            - generic "icon" [ref=f5e57]: add_circle
+            - generic [ref=f5e59]: Create Order
+          - button [ref=f5e60] [cursor=pointer]
+        - separator [ref=f5e63]
+        - separator [ref=f5e64]
+        - list [ref=f5e65]:
+          - generic [ref=f5e66]:
+            - listitem [ref=f5e67]:
+              - button "Dashboard" [ref=f5e68] [cursor=pointer]
+            - separator [ref=f5e74]
+          - generic [ref=f5e75]:
+            - listitem [ref=f5e76]:
+              - button "Orders" [ref=f5e77] [cursor=pointer]:
+                - button [ref=f5e83]
+            - separator [ref=f5e146]
+          - generic [ref=f5e147]:
+            - listitem [ref=f5e148]:
+              - button "Reports" [ref=f5e149] [cursor=pointer]
+            - separator [ref=f5e155]
+          - generic [ref=f5e156]:
+            - listitem [ref=f5e157]:
+              - button "Customers" [ref=f5e158] [cursor=pointer]:
+                - button [ref=f5e164]
+            - separator [ref=f5e167]
+          - generic [ref=f5e168]:
+            - listitem [ref=f5e169]:
+              - button "Settings" [ref=f5e170] [cursor=pointer]:
+                - button [ref=f5e176]
+            - separator [ref=f5e179]
+          - generic [ref=f5e180]:
+            - listitem [ref=f5e181]:
+              - button "Store Management" [ref=f5e182] [cursor=pointer]:
+                - button [ref=f5e188]
+            - separator [ref=f5e191]
+        - generic [ref=f5e192]:
+          - separator [ref=f5e193]
+          - list [ref=f5e194]:
+            - listitem [ref=f5e195]:
+              - button "icon Live Chat" [ref=f5e196] [cursor=pointer]:
+                - generic "icon" [ref=f5e198]: chat_bubble
+                - generic [ref=f5e200]: Live Chat
+      - main [ref=f5e201]:
+        - generic [ref=f5e204]:
+          - heading "View Orders" [level=3] [ref=f5e206]
+          - generic [ref=f5e207]:
+            - generic [ref=f5e208]:
+              - generic [ref=f5e212]:
+                - textbox "Search order number, last name, post code etc..." [active] [ref=f5e213]: "940836060100"
+                - generic [ref=f5e214]:
+                  - button "clear" [ref=f5e977] [cursor=pointer]
+                  - button "search" [ref=f5e215] [cursor=pointer]
+                - group
+              - button "Clear all filters" [ref=f5e219] [cursor=pointer]
+            - generic [ref=f5e220]:
+              - generic [ref=f5e223]:
+                - generic: Status
+                - generic [ref=f5e224]:
+                  - combobox [ref=f5e225] [cursor=pointer]
+                  - textbox
+                  - group
+              - generic [ref=f5e228]:
+                - generic: Delivery Type
+                - generic [ref=f5e229]:
+                  - combobox [ref=f5e230] [cursor=pointer]
+                  - textbox
+                  - group
+              - generic [ref=f5e234]:
+                - textbox "Delivery Date" [ref=f5e235]
+                - group
+              - generic [ref=f5e240]:
+                - generic: Order Type
+                - generic [ref=f5e241]:
+                  - combobox "Order Type" [ref=f5e242] [cursor=pointer]
+                  - textbox
+                  - group
+              - button "Advanced search" [ref=f5e245] [cursor=pointer]
+          - generic [ref=f5e246]:
+            - generic [ref=f5e248]:
+              - button [ref=f5e251]:
+                - generic [ref=f5e253]:
+                  - combobox "Select a batch operation" [ref=f5e254] [cursor=pointer]
+                  - textbox
+                - generic "icon" [ref=f5e255]: arrow_drop_down
+              - generic "Select an action from this drop down, once selected, you will see checkboxes for the orders which this action can be applied to. Then click Apply Changes when ready to proceed with the batch operation." [ref=f5e257]: info
+            - generic [ref=f5e260]:
+              - generic [ref=f5e261]: Sort By
+              - generic [ref=f5e262]:
+                - combobox "Sort By Newest to Oldest" [ref=f5e263] [cursor=pointer]: Newest to Oldest
+                - textbox: CRATE_DATE_DESC
+                - group
+          - generic [ref=f5e265]:
+            - grid [ref=f5e266]:
+              - row [ref=f5e267]:
+                - columnheader "Order Number" [ref=f5e268] [cursor=pointer]
+                - columnheader "Delivery Type" [ref=f5e272] [cursor=pointer]
+                - columnheader "Delivery Date" [ref=f5e276] [cursor=pointer]
+                - columnheader "Recipient" [ref=f5e280] [cursor=pointer]
+                - columnheader "Address" [ref=f5e284] [cursor=pointer]
+                - columnheader "Product(s)" [ref=f5e288]
+                - columnheader "Status" [ref=f5e292] [cursor=pointer]
+                - columnheader [ref=f5e296]
+              - rowgroup [ref=f5e355]:
+                - row [ref=f5e981]:
+                  - 'gridcell "icon E #940836060100 52002441001" [ref=f5e982]':
+                    - generic [ref=f5e983]:
+                      - generic "icon" [ref=f5e986]: local_shipping
+                      - generic [ref=f5e988]:
+                        - 'link "E #940836060100" [ref=f5e990] [cursor=pointer]':
+                          - /url: /manage-orders/order?id=940836060100
+                        - generic "52002441001" [ref=f5e991]
+                  - gridcell "Standard Delivery Charge" [ref=f5e992]
+                  - gridcell "09 Sep 2026" [ref=f5e995]
+                  - gridcell "Dfgh Dfgh" [ref=f5e996]
+                  - gridcell "Top Flat, 158 Albert Road PO4 0JT" [ref=f5e997]:
+                    - generic [ref=f5e998]:
+                      - generic [ref=f5e999]: Top Flat, 158 Albert Road
+                      - generic [ref=f5e1000]: PO4 0JT
+                  - gridcell "Beautiful Bright Bouquet" [ref=f5e1001]
+                  - gridcell "awaiting acceptance" [ref=f5e1002]:
+                    - generic "awaiting acceptance" [ref=f5e1004]
+                  - gridcell [ref=f5e1005]:
+                    - menu [ref=f5e1006]:
+                      - menuitem "more" [ref=f5e1007] [cursor=pointer]
+            - generic [ref=f5e310]:
+              - paragraph [ref=f5e311]: 1–1 of 1
+              - generic [ref=f5e312]:
+                - button "Go to previous page" [disabled]
+                - button "Go to next page" [disabled]
+    - generic [ref=f5e315]:
+      - paragraph [ref=f5e318]: © Interflora British Unit All Rights Reserved. Company reg. no. 297087
+      - generic [ref=f5e319]:
+        - link "Help" [ref=f5e1011] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help
+        - link "Contact" [ref=f5e1012] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help/contact
+        - link "Florist Hub" [ref=f5e1013] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+        - link "IDD" [ref=f5e1014] [cursor=pointer]:
+          - /url: https://test.cloudidd.com/autologin?user=KranthiD&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiS3JhbnRoaUQiLCJ1bml0X2lkIjoiMjEyIiwidW5pdElEIjoiMjEyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjpbIlVuaXRfTWFuYWdlciIsIlNlcnZpY2VfVXNlciIsIlVuaXRfQWRtaW4iLCJVbml0X1JldHJhbnMiLCJVbml0X0ZpbmFuY2lhbE1hbmFnZXIiLCJVbml0X1Byb2R1Y3RNYW5hZ2VyIiwiQ29udGVudF9BZG1pbiJdLCJleHAiOjE3ODkwNzM2OTEsImlzcyI6InN3YW4tYXBpIiwiYXVkIjoic3dhbi1jbGllbnRzIn0._V_gWA9Y-1Lj2_1wFdbRotUgIOfcT9SR1LVnzEYW_Eg
+        - link "Privacy Policy" [ref=f5e1015] [cursor=pointer]:
+          - /url: /page/privacy-policy
+  - alert [ref=f5e335]: Order Management

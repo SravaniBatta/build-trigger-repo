@@ -1,0 +1,220 @@
+- generic [active] [ref=f15e1]:
+  - main [ref=f15e3]:
+    - generic [ref=f15e7]:
+      - img "Logo" [ref=f15e10] [cursor=pointer]
+      - generic [ref=f15e12]:
+        - generic [ref=f15e13]:
+          - generic [ref=f15e17]:
+            - textbox "Search order number, last name, post code etc..." [ref=f15e18]
+            - button "search" [ref=f15e20] [cursor=pointer]
+            - group
+          - generic [ref=f15e23]:
+            - generic [ref=f15e25]:
+              - generic "icon" [ref=f15e26]: public
+              - generic [ref=f15e28]: IDD
+            - link [ref=f15e30] [cursor=pointer]:
+              - /url: https://auth-tst.interflorabeta.co.uk/samlp/mncaaObwaBVvObIE4q8KVA1EpcQkWSoj
+              - button "icon Delivery" [ref=f15e31]:
+                - generic "icon" [ref=f15e33]: local_shipping_outlined
+                - generic [ref=f15e35]: Delivery
+            - link [ref=f15e37] [cursor=pointer]:
+              - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+              - button "Florist Hub" [ref=f15e38]
+        - generic [ref=f15e41]:
+          - button "Go to messages" [ref=f15e42] [cursor=pointer]:
+            - generic [ref=f15e43]: 99+
+          - generic [ref=f15e48]:
+            - generic [ref=f15e49]: You are logged in as 1305a
+            - generic [ref=f15e50]: Charmaine Of Southsea
+          - button "icon" [ref=f15e52] [cursor=pointer]:
+            - generic [ref=f15e53]: person
+      - generic [ref=f15e55]:
+        - button "Open Order Calendar" [ref=f15e57] [cursor=pointer]:
+          - generic [ref=f15e58]: event_calendar
+        - generic [ref=f15e59]: "75"
+    - generic [ref=f15e61]:
+      - generic [ref=f15e62]:
+        - generic [ref=f15e63]:
+          - button "icon Create Order" [ref=f15e64] [cursor=pointer]:
+            - generic "icon" [ref=f15e66]: add_circle
+            - generic [ref=f15e68]: Create Order
+          - button [ref=f15e69] [cursor=pointer]
+        - separator [ref=f15e72]
+        - separator [ref=f15e73]
+        - list [ref=f15e74]:
+          - generic [ref=f15e75]:
+            - listitem [ref=f15e76]:
+              - button "Dashboard" [ref=f15e77] [cursor=pointer]
+            - separator [ref=f15e83]
+          - generic [ref=f15e84]:
+            - listitem [ref=f15e85]:
+              - button "Orders" [ref=f15e86] [cursor=pointer]:
+                - button [ref=f15e92]
+            - separator [ref=f15e95]
+          - generic [ref=f15e96]:
+            - listitem [ref=f15e97]:
+              - button "Reports" [ref=f15e98] [cursor=pointer]
+            - separator [ref=f15e104]
+          - generic [ref=f15e105]:
+            - listitem [ref=f15e106]:
+              - button "Customers" [ref=f15e107] [cursor=pointer]:
+                - button [ref=f15e113]
+            - separator [ref=f15e116]
+          - generic [ref=f15e117]:
+            - listitem [ref=f15e118]:
+              - button "Settings" [ref=f15e119] [cursor=pointer]:
+                - button [ref=f15e125]
+            - separator [ref=f15e128]
+          - generic [ref=f15e129]:
+            - listitem [ref=f15e130]:
+              - button "Store Management" [ref=f15e131] [cursor=pointer]:
+                - button [ref=f15e137]
+            - separator [ref=f15e140]
+        - generic [ref=f15e141]:
+          - separator [ref=f15e142]
+          - list [ref=f15e143]:
+            - listitem [ref=f15e144]:
+              - button "icon Live Chat" [ref=f15e145] [cursor=pointer]:
+                - generic "icon" [ref=f15e147]: chat_bubble
+                - generic [ref=f15e149]: Live Chat
+      - main [ref=f15e150]:
+        - generic [ref=f15e153]:
+          - button "icon Back" [ref=f15e155] [cursor=pointer]:
+            - generic "icon" [ref=f15e156]: arrow_back
+            - generic [ref=f15e158]: Back
+          - generic [ref=f15e160]:
+            - generic [ref=f15e161]:
+              - generic [ref=f15e162]: Order Number
+              - generic [ref=f15e165]:
+                - generic "icon" [ref=f15e166]: store
+                - generic [ref=f15e168]: LOCAL
+            - generic [ref=f15e170]:
+              - button "icon Reject" [ref=f15e171] [cursor=pointer]:
+                - generic "icon" [ref=f15e173]: cancel_outlined_icon
+                - generic [ref=f15e175]: Reject
+              - generic [ref=f15e176]:
+                - text: Actions
+                - button [ref=f15e177] [cursor=pointer]
+          - generic [ref=f15e180]:
+            - generic [ref=f15e181]:
+              - generic [ref=f15e182]:
+                - generic [ref=f15e183]:
+                  - generic [ref=f15e186]: Product Details
+                  - generic [ref=f15e187]: Total Products in this order 0
+                - generic [ref=f15e190]:
+                  - generic [ref=f15e191]:
+                    - generic [ref=f15e192]: Card Message
+                    - generic [ref=f15e194]: N/A
+                  - generic [ref=f15e196]:
+                    - generic [ref=f15e197]: Florist Instructions
+                    - generic [ref=f15e199]: N/A
+              - paragraph [ref=f15e202]: No activity available
+              - generic [ref=f15e203]:
+                - generic [ref=f15e204]: Financials
+                - generic [ref=f15e208]:
+                  - generic [ref=f15e209]:
+                    - generic [ref=f15e210]: Delivery Charge
+                    - generic [ref=f15e211]: Area Charge
+                    - generic [ref=f15e212]: Taxi Charge
+                    - generic [ref=f15e213]: Priority Delivery
+                    - generic [ref=f15e214]: Total
+                    - generic [ref=f15e215]: Total Cost
+                  - generic [ref=f15e216]:
+                    - generic [ref=f15e217]: €0
+                    - generic [ref=f15e218]: €0
+                    - generic [ref=f15e219]: €0
+                    - generic [ref=f15e220]: €0
+                    - generic [ref=f15e221]: €0
+                    - generic [ref=f15e222]: €0
+            - generic [ref=f15e223]:
+              - generic [ref=f15e224]:
+                - generic [ref=f15e225]: Recipient Details
+                - generic [ref=f15e229]:
+                  - generic [ref=f15e230]: Delivery Date
+                  - generic [ref=f15e232]:
+                    - generic [ref=f15e233]: Time Slot
+                    - generic [ref=f15e234]: N/A
+                  - generic [ref=f15e235]: Name
+                  - generic [ref=f15e237]: Tel No.
+                  - generic [ref=f15e239]: Occasion
+                  - generic [ref=f15e241]:
+                    - generic [ref=f15e242]: Address
+                    - button "View on map" [ref=f15e245] [cursor=pointer]
+                - generic [ref=f15e251]:
+                  - generic [ref=f15e252]: Delivery Instructions
+                  - generic [ref=f15e253]: N/A
+              - generic [ref=f15e255]:
+                - generic [ref=f15e256]: Customer Details
+                - generic [ref=f15e261]: Name
+                - generic [ref=f15e263]:
+                  - generic [ref=f15e264]: Tel No.
+                  - generic [ref=f15e265]: N/A
+              - generic [ref=f15e266]:
+                - generic [ref=f15e267]:
+                  - generic [ref=f15e268]: Sender
+                  - generic [ref=f15e272]:
+                    - generic [ref=f15e273]:
+                      - generic [ref=f15e274]: Member No.
+                      - generic [ref=f15e275]: N/A
+                    - generic [ref=f15e276]: N/A
+                    - generic:
+                      - list
+                    - generic [ref=f15e278]:
+                      - generic [ref=f15e279]: Tel No.
+                      - generic [ref=f15e280]: N/A
+                - generic [ref=f15e281]:
+                  - generic [ref=f15e282]:
+                    - generic [ref=f15e283]:
+                      - text: Reference No.
+                      - generic "This is the customer facing reference number generated by the source system and sent in customer emails" [ref=f15e284]:
+                        - generic "icon" [ref=f15e285]: info-outline
+                    - generic [ref=f15e287]: N/A
+                  - generic [ref=f15e288]:
+                    - generic [ref=f15e289]:
+                      - text: Order No.
+                      - generic "The current Rose order number" [ref=f15e290]:
+                        - generic "icon" [ref=f15e291]: info-outline
+                    - generic [ref=f15e293]: N/A
+                  - generic [ref=f15e294]:
+                    - generic [ref=f15e295]:
+                      - text: Original order No.
+                      - generic "The Rose order number that was originally created when the order was first created" [ref=f15e296]:
+                        - generic "icon" [ref=f15e297]: info-outline
+                    - generic [ref=f15e299]: N/A
+                  - generic [ref=f15e300]:
+                    - generic [ref=f15e301]:
+                      - text: Order Pad No.
+                      - generic "This is the order pad number that the sending florist entered when placing the order" [ref=f15e302]:
+                        - generic "icon" [ref=f15e303]: info-outline
+                    - generic [ref=f15e305]: N/A
+                  - generic [ref=f15e306]:
+                    - generic [ref=f15e307]: Payment type
+                    - generic [ref=f15e308]: N/A
+                  - generic [ref=f15e309]:
+                    - generic [ref=f15e310]: Order source
+                    - generic [ref=f15e311]: N/A
+              - generic [ref=f15e313]:
+                - generic [ref=f15e314]: Executor
+                - generic [ref=f15e318]:
+                  - generic [ref=f15e319]:
+                    - generic [ref=f15e320]: Member No.
+                    - generic [ref=f15e321]: N/A
+                  - generic [ref=f15e322]: N/A
+                  - generic:
+                    - list
+                  - generic [ref=f15e324]:
+                    - generic [ref=f15e325]: Tel No.
+                    - generic [ref=f15e326]: N/A
+    - generic [ref=f15e329]:
+      - paragraph [ref=f15e332]: © Interflora British Unit All Rights Reserved. Company reg. no. 297087
+      - generic [ref=f15e333]:
+        - link "Help" [ref=f15e336] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help
+        - link "Contact" [ref=f15e339] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help/contact
+        - link "Florist Hub" [ref=f15e342] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+        - generic [ref=f15e343]: IDD
+        - link "Privacy Policy" [ref=f15e348] [cursor=pointer]:
+          - /url: /page/privacy-policy
+  - alert [ref=f15e349]

@@ -1,0 +1,460 @@
+- generic [active] [ref=f3e1]:
+  - main [ref=f3e9]:
+    - generic [ref=f3e13]:
+      - generic [ref=f3e15] [cursor=pointer]
+      - generic [ref=f3e18]:
+        - generic [ref=f3e23]:
+          - textbox [ref=f3e199]:
+            - /placeholder: Search order number, last name, post code etc...
+          - button [ref=f3e200] [cursor=pointer]
+          - group [aria-hidden]
+        - generic [ref=f3e30]:
+          - button [ref=f3e201] [cursor=pointer]:
+            - generic [ref=f3e32]: 99+
+          - generic [ref=f3e36]:
+            - generic [ref=f3e37]: You are logged in as 1305a
+            - generic [ref=f3e38]: Charmaine Of Southsea
+          - button [ref=f3e203] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e204]: person
+      - generic [ref=f3e43]:
+        - button [ref=f3e205] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f3e46]: event_calendar
+        - generic [ref=f3e206]: "75"
+    - generic [ref=f3e48]:
+      - generic [ref=f3e49]:
+        - separator [ref=f3e50]
+        - generic [ref=f3e51]:
+          - generic [ref=f3e52]:
+            - button [ref=f3e207] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f3e209]: add_circle
+              - generic [ref=f3e57]: Create Order
+            - button [ref=f3e58] [cursor=pointer]
+          - link [ref=f3e210] [cursor=pointer]:
+            - /url: https://rose-portal-tst.interflorabeta.co.uk/interflora/mylogin/auth0/login.html
+            - button [ref=f3e211]:
+              - generic [aria-hidden] [ref=f3e214]: public
+              - generic [ref=f3e215]: IDD
+          - link [ref=f3e216] [cursor=pointer]:
+            - /url: https://auth-tst.interflorabeta.co.uk/samlp/mncaaObwaBVvObIE4q8KVA1EpcQkWSoj
+            - button [ref=f3e217]:
+              - generic [aria-hidden] [ref=f3e220]: local_shipping_outlined
+              - generic [ref=f3e221]: Delivery
+          - link [ref=f3e222] [cursor=pointer]:
+            - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+            - button [ref=f3e223]:
+              - generic [ref=f3e224]: Florist Hub
+        - separator [ref=f3e79]
+        - list [ref=f3e80]:
+          - generic [ref=f3e81]:
+            - listitem [ref=f3e82]:
+              - button [ref=f3e225] [cursor=pointer]:
+                - generic [ref=f3e87]: Dashboard
+            - separator [ref=f3e89]
+          - generic [ref=f3e90]:
+            - listitem [ref=f3e91]:
+              - button [ref=f3e226] [cursor=pointer]:
+                - generic [ref=f3e96]: Orders
+                - button [ref=f3e98]
+            - separator [ref=f3e101]
+          - generic [ref=f3e102]:
+            - listitem [ref=f3e103]:
+              - button [ref=f3e227] [cursor=pointer]:
+                - generic [ref=f3e108]: Reports
+            - separator [ref=f3e110]
+          - generic [ref=f3e111]:
+            - listitem [ref=f3e112]:
+              - button [ref=f3e228] [cursor=pointer]:
+                - generic [ref=f3e117]: Customers
+                - button [ref=f3e119]
+            - separator [ref=f3e122]
+          - generic [ref=f3e123]:
+            - listitem [ref=f3e124]:
+              - button [ref=f3e229] [cursor=pointer]:
+                - generic [ref=f3e129]: Settings
+                - button [ref=f3e131]
+            - separator [ref=f3e134]
+          - generic [ref=f3e135]:
+            - listitem [ref=f3e136]:
+              - button [ref=f3e230] [cursor=pointer]:
+                - generic [ref=f3e141]: Store Management
+                - button [ref=f3e143]
+            - separator [ref=f3e146]
+        - generic [ref=f3e147]:
+          - separator [ref=f3e148]
+          - list [ref=f3e149]:
+            - listitem [ref=f3e150]:
+              - button [ref=f3e231] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f3e233]: chat_bubble
+                - generic [ref=f3e155]: Live Chat
+      - main [ref=f3e156]:
+        - generic [ref=f3e234]:
+          - generic [ref=f3e235]:
+            - generic [ref=f3e236]:
+              - heading [level=5] [ref=f3e237]: Sales Highlights
+              - generic [ref=f3e238]:
+                - generic [ref=f3e239]: Time period
+                - generic [ref=f3e240]:
+                  - combobox [ref=f3e241] [cursor=pointer]: Last 30 days
+                  - textbox [aria-hidden]: LAST_30_DAYS
+                  - group [aria-hidden]:
+                    - generic: Time period
+            - alert [ref=f3e242]:
+              - generic [ref=f3e246]: Sales figures are unavailable right now. Please try again later.
+          - generic [ref=f3e247]:
+            - generic [ref=f3e250]:
+              - generic [ref=f3e251]:
+                - generic [ref=f3e252]:
+                  - generic [ref=f3e253]: Sep 2026
+                  - text: Upcoming Orders
+                - generic [ref=f3e254]: Available for Order Allocation
+                - generic [ref=f3e255]:
+                  - generic [ref=f3e256]: In
+                  - generic [ref=f3e257]: Out
+              - generic [ref=f3e258]:
+                - generic [ref=f3e259]:
+                  - generic [ref=f3e260]: Sun
+                  - generic [ref=f3e261]: Mon
+                  - generic [ref=f3e262]: Tue
+                  - generic [ref=f3e263]: Wed
+                  - generic [ref=f3e264]: Thu
+                  - generic [ref=f3e265]: Fri
+                  - generic [ref=f3e266]: Sat
+                - generic [ref=f3e267]:
+                  - generic [ref=f3e268]:
+                    - generic [ref=f3e269]: "1"
+                    - generic [ref=f3e270]:
+                      - button [ref=f3e271] [cursor=pointer]: "5"
+                      - button [ref=f3e272] [cursor=pointer]: "1"
+                  - generic [ref=f3e273]: "2"
+                  - generic [ref=f3e275]:
+                    - generic [ref=f3e276]: "3"
+                    - generic [ref=f3e277]:
+                      - button [ref=f3e278] [cursor=pointer]: "7"
+                      - button [ref=f3e279] [cursor=pointer]: "12"
+                  - generic [ref=f3e280]:
+                    - generic [ref=f3e281]: "4"
+                    - generic [ref=f3e282]:
+                      - button [ref=f3e283] [cursor=pointer]: "2"
+                      - button [ref=f3e284] [cursor=pointer]: "3"
+                  - generic [ref=f3e285]:
+                    - generic [ref=f3e286]: "5"
+                    - generic [ref=f3e287]:
+                      - button [ref=f3e288] [cursor=pointer]: "1"
+                      - button [ref=f3e289] [cursor=pointer]: "2"
+                  - generic [ref=f3e290]: "6"
+                  - generic [ref=f3e292]:
+                    - generic [ref=f3e293]: "7"
+                    - button [ref=f3e295] [cursor=pointer]: "1"
+                  - generic [ref=f3e296]:
+                    - generic [ref=f3e297]: "8"
+                    - generic [ref=f3e298]:
+                      - button [ref=f3e299] [cursor=pointer]: "9"
+                      - button [ref=f3e300] [cursor=pointer]: "7"
+                  - generic [ref=f3e301]:
+                    - generic [ref=f3e302]: "9"
+                    - generic [ref=f3e303]:
+                      - button [ref=f3e304] [cursor=pointer]: "4"
+                      - button [ref=f3e305] [cursor=pointer]: "2"
+                  - generic [ref=f3e306]:
+                    - generic [ref=f3e307]: "10"
+                    - generic [ref=f3e308]:
+                      - button [ref=f3e309] [cursor=pointer]: "2"
+                      - generic [ref=f3e310]: A
+                  - generic [ref=f3e311]:
+                    - generic [ref=f3e312]: "11"
+                    - generic [ref=f3e313]:
+                      - button [ref=f3e314] [cursor=pointer]: "2"
+                      - generic [ref=f3e315]: A
+                  - generic [ref=f3e316]:
+                    - generic [ref=f3e317]: "12"
+                    - generic [ref=f3e318]: A
+                  - generic [ref=f3e319]:
+                    - generic [ref=f3e320]: "13"
+                    - generic [ref=f3e321]:
+                      - button [ref=f3e322] [cursor=pointer]: "1"
+                      - generic [ref=f3e323]: U
+                  - generic [ref=f3e324]:
+                    - generic [ref=f3e325]: "14"
+                    - generic [ref=f3e326]: A
+                  - generic [ref=f3e327]:
+                    - generic [ref=f3e328]: "15"
+                    - generic [ref=f3e329]: A
+                  - generic [ref=f3e330]:
+                    - generic [ref=f3e331]: "16"
+                    - generic [ref=f3e332]: A
+                  - generic [ref=f3e333]:
+                    - generic [ref=f3e334]: "17"
+                    - generic [ref=f3e335]: A
+                  - generic [ref=f3e336]:
+                    - generic [ref=f3e337]: "18"
+                    - generic [ref=f3e338]: A
+                  - generic [ref=f3e339]:
+                    - generic [ref=f3e340]: "19"
+                    - generic [ref=f3e341]: A
+                  - generic [ref=f3e342]:
+                    - generic [ref=f3e343]: "20"
+                    - generic [ref=f3e344]: U
+                  - generic [ref=f3e345]:
+                    - generic [ref=f3e346]: "21"
+                    - generic [ref=f3e347]: A
+                  - generic [ref=f3e348]:
+                    - generic [ref=f3e349]: "22"
+                    - generic [ref=f3e350]: A
+                  - generic [ref=f3e351]:
+                    - generic [ref=f3e352]: "23"
+                    - generic [ref=f3e353]: A
+                  - generic [ref=f3e354]:
+                    - generic [ref=f3e355]: "24"
+                    - generic [ref=f3e356]: A
+                  - generic [ref=f3e357]:
+                    - generic [ref=f3e358]: "25"
+                    - generic [ref=f3e359]: A
+                  - generic [ref=f3e360]:
+                    - generic [ref=f3e361]: "26"
+                    - generic [ref=f3e362]: A
+                  - generic [ref=f3e363]:
+                    - generic [ref=f3e364]: "27"
+                    - generic [ref=f3e365]: U
+                  - generic [ref=f3e366]:
+                    - generic [ref=f3e367]: "28"
+                    - generic [ref=f3e368]: A
+                  - generic [ref=f3e369]:
+                    - generic [ref=f3e370]: "29"
+                    - generic [ref=f3e371]: A
+                  - generic [ref=f3e372]:
+                    - generic [ref=f3e373]: "30"
+                    - generic [ref=f3e374]: A
+              - generic [ref=f3e375]:
+                - button [ref=f3e376] [cursor=pointer]:
+                  - generic [ref=f3e379]: Prev
+                - generic [ref=f3e380]:
+                  - generic [ref=f3e381]: "Orders:"
+                  - button [ref=f3e382] [cursor=pointer]:
+                    - text: "This week:"
+                    - strong [ref=f3e383]: "27"
+                  - button [ref=f3e384] [cursor=pointer]:
+                    - text: "This month:"
+                    - strong [ref=f3e385]: "61"
+                - button [ref=f3e386] [cursor=pointer]:
+                  - generic [ref=f3e387]: Next
+            - generic [ref=f3e392]:
+              - heading [level=3] [ref=f3e393]: Your Alerts
+              - generic [ref=f3e394]:
+                - link [ref=f3e395] [cursor=pointer]:
+                  - /url: /manage-orders?filterOption=newOrders
+                  - generic [ref=f3e396]:
+                    - generic [ref=f3e397]: "75"
+                    - generic [ref=f3e398]: New Orders
+                - link [ref=f3e401] [cursor=pointer]:
+                  - /url: /manage-orders?filterOption=clickAndCollectOrders
+                  - generic [ref=f3e402]:
+                    - generic [ref=f3e403]: "2"
+                    - generic [ref=f3e404]: Click & Collect Orders
+                - link [ref=f3e407] [cursor=pointer]:
+                  - /url: /manage-orders?filterOption=rejectedOrders
+                  - generic [ref=f3e408]:
+                    - generic [ref=f3e409]: "41"
+                    - generic [ref=f3e410]: Rejected Orders
+                - link [ref=f3e413] [cursor=pointer]:
+                  - /url: /manage-orders?filterOption=funeralOrders
+                  - generic [ref=f3e414]:
+                    - generic [ref=f3e415]: "2"
+                    - generic [ref=f3e416]: Funeral Orders
+                - link [ref=f3e419] [cursor=pointer]:
+                  - /url: /manage-orders?filterOption=cancelOrders
+                  - generic [ref=f3e420]:
+                    - generic [ref=f3e421]: "25"
+                    - generic [ref=f3e422]: Cancel Orders
+                - link [ref=f3e425] [cursor=pointer]:
+                  - /url: /manage-orders
+                  - text: View all orders
+            - generic [ref=f3e430]:
+              - list [ref=f3e431]:
+                - listitem [aria-hidden] [ref=f3e432]:
+                  - link [ref=f3e434] [cursor=pointer]:
+                    - /url: FP TEST
+                    - heading [level=6] [ref=f3e437]: FP TEST
+                - listitem [aria-hidden] [ref=f3e438]:
+                  - link [ref=f3e440] [cursor=pointer]:
+                    - /url: /page/privacy-policy
+                    - heading [level=6] [ref=f3e443]: check our privacy policy
+                - listitem [ref=f3e444]:
+                  - link [ref=f3e446] [cursor=pointer]:
+                    - /url: /
+                    - heading [level=6] [ref=f3e449]: TEST
+                - listitem [aria-hidden] [ref=f3e450]:
+                  - heading [level=6] [ref=f3e454]: TESTING_Advert
+                - listitem [aria-hidden] [ref=f3e455]:
+                  - link [ref=f3e457] [cursor=pointer]:
+                    - /url: FP TEST
+                    - heading [level=6] [ref=f3e460]: FP TEST
+                - listitem [aria-hidden] [ref=f3e461]:
+                  - link [ref=f3e463] [cursor=pointer]:
+                    - /url: /page/privacy-policy
+                    - heading [level=6] [ref=f3e466]: check our privacy policy
+                - listitem [aria-hidden] [ref=f3e467]:
+                  - link [ref=f3e469] [cursor=pointer]:
+                    - /url: /
+                    - heading [level=6] [ref=f3e472]: TEST
+                - listitem [aria-hidden] [ref=f3e473]:
+                  - heading [level=6] [ref=f3e477]: TESTING_Advert
+              - button [ref=f3e478] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f3e480]: chevron_left
+              - button [ref=f3e481] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f3e483]: chevron_right
+              - list [ref=f3e484]:
+                - listitem [ref=f3e485]:
+                  - button [ref=f3e486] [cursor=pointer]
+                - listitem [ref=f3e487]:
+                  - button [ref=f3e488] [cursor=pointer]
+                - listitem [ref=f3e489]:
+                  - button [ref=f3e490] [cursor=pointer]
+                - listitem [ref=f3e491]:
+                  - button [ref=f3e492] [cursor=pointer]
+          - heading [level=2] [ref=f3e493]: MANAGE ORDERS
+          - generic [ref=f3e494]:
+            - heading [level=3] [ref=f3e496]:
+              - button [ref=f3e497] [cursor=pointer]:
+                - generic [ref=f3e499]:
+                  - heading [level=3] [ref=f3e500]: Awaiting Acceptance (75)
+                  - generic [aria-hidden] [ref=f3e504]: info
+                - generic [aria-hidden] [ref=f3e507]: keyboard_arrow_right
+            - heading [level=3] [ref=f3e509]:
+              - button [ref=f3e510] [cursor=pointer]:
+                - generic [ref=f3e512]:
+                  - heading [level=3] [ref=f3e513]: Priority Orders (18)
+                  - generic [aria-hidden] [ref=f3e517]: info
+                - generic [aria-hidden] [ref=f3e520]: keyboard_arrow_right
+            - heading [level=3] [ref=f3e522]:
+              - button [ref=f3e523] [cursor=pointer]:
+                - generic [ref=f3e525]:
+                  - heading [level=3] [ref=f3e526]: Action Required (66)
+                  - generic [aria-hidden] [ref=f3e530]: info
+                - generic [aria-hidden] [ref=f3e533]: keyboard_arrow_right
+    - generic [ref=f3e165]:
+      - paragraph [ref=f3e168]: © Interflora British Unit All Rights Reserved. Company reg. no. 297087
+      - generic [ref=f3e169]:
+        - link [ref=f3e534] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help
+          - text: Help
+        - link [ref=f3e535] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help/contact
+          - text: Contact
+        - link [ref=f3e536] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+          - text: Florist Hub
+        - link [ref=f3e537] [cursor=pointer]:
+          - /url: https://test.cloudidd.com/autologin?user=KranthiD&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiS3JhbnRoaUQiLCJ1bml0X2lkIjoiMjEyIiwidW5pdElEIjoiMjEyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjpbIlVuaXRfTWFuYWdlciIsIlNlcnZpY2VfVXNlciIsIlVuaXRfQWRtaW4iLCJVbml0X1JldHJhbnMiLCJVbml0X0ZpbmFuY2lhbE1hbmFnZXIiLCJVbml0X1Byb2R1Y3RNYW5hZ2VyIiwiQ29udGVudF9BZG1pbiJdLCJleHAiOjE3ODkwNzM2OTEsImlzcyI6InN3YW4tYXBpIiwiYXVkIjoic3dhbi1jbGllbnRzIn0._V_gWA9Y-1Lj2_1wFdbRotUgIOfcT9SR1LVnzEYW_Eg
+          - text: IDD
+        - link [ref=f3e538] [cursor=pointer]:
+          - /url: /page/privacy-policy
+          - text: Privacy Policy
+  - alert [ref=f3e8]: Dashboard
+  - dialog [ref=f3e541]:
+    - banner [ref=f3e542]:
+      - heading "icon Delivery Confirmation - Reminder" [level=3] [ref=f3e543]:
+        - generic [ref=f3e544]:
+          - generic "icon" [ref=f3e545]:
+            - generic [aria-hidden] [ref=f3e546]: local_shipping
+          - generic [ref=f3e547]: Delivery Confirmation - Reminder
+      - button "Close" [ref=f3e549] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f3e550]: close
+    - generic [ref=f3e552]:
+      - generic [ref=f3e553]:
+        - text: This reminder shows any orders that haven't been marked as delivered at the start and end of each day. Please update delivery statuses in real time.
+        - generic "This reminder lists orders without a delivery status. Please update each order immediately after delivery to ensure accurate reporting and prevent overdue alerts. AM orders must be delivered by 12pm and marked delivered by 1pm. PM/Same Day orders must be marked delivered by 6pm." [ref=f3e554]:
+          - generic "icon" [ref=f3e555]:
+            - generic [aria-hidden] [ref=f3e556]: info
+      - generic [ref=f3e558]:
+        - grid [ref=f3e559]:
+          - row [ref=f3e560]:
+            - columnheader "Order Number" [ref=f3e561] [cursor=pointer]
+            - columnheader "Recipient Name" [ref=f3e565] [cursor=pointer]
+            - columnheader "Recipient Address" [ref=f3e569] [cursor=pointer]
+            - columnheader "Postcode" [ref=f3e573] [cursor=pointer]
+            - columnheader "Order Status" [ref=f3e577] [cursor=pointer]
+            - columnheader [ref=f3e581]
+          - rowgroup [ref=f3e585]:
+            - row [ref=f3e586]:
+              - gridcell "940836750100" [ref=f3e587]
+              - gridcell "T T" [ref=f3e588]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e589]
+              - gridcell "PO4 0JT" [ref=f3e590]
+              - gridcell "Accepted" [ref=f3e591]
+              - gridcell [ref=f3e592]:
+                - menu [ref=f3e593]:
+                  - menuitem "more" [ref=f3e594] [cursor=pointer]
+            - row [ref=f3e597]:
+              - gridcell "940835320100" [ref=f3e598]
+              - gridcell "Test Test" [ref=f3e599]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e600]
+              - gridcell "PO4 0JT" [ref=f3e601]
+              - gridcell "Accepted" [ref=f3e602]
+              - gridcell [ref=f3e603]:
+                - menu [ref=f3e604]:
+                  - menuitem "more" [ref=f3e605] [cursor=pointer]
+            - row [ref=f3e608]:
+              - gridcell "940835330100" [ref=f3e609]
+              - gridcell "T T" [ref=f3e610]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e611]
+              - gridcell "PO4 0JT" [ref=f3e612]
+              - gridcell "Accepted" [ref=f3e613]
+              - gridcell [ref=f3e614]:
+                - menu [ref=f3e615]:
+                  - menuitem "more" [ref=f3e616] [cursor=pointer]
+            - row [ref=f3e619]:
+              - gridcell "940834750100" [ref=f3e620]
+              - gridcell "T T" [ref=f3e621]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e622]
+              - gridcell "PO4 0JT" [ref=f3e623]
+              - gridcell "Accepted" [ref=f3e624]
+              - gridcell [ref=f3e625]:
+                - menu [ref=f3e626]:
+                  - menuitem "more" [ref=f3e627] [cursor=pointer]
+            - row [ref=f3e630]:
+              - gridcell "940834840100" [ref=f3e631]
+              - gridcell "T T" [ref=f3e632]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e633]
+              - gridcell "PO4 0JT" [ref=f3e634]
+              - gridcell "Accepted" [ref=f3e635]
+              - gridcell [ref=f3e636]:
+                - menu [ref=f3e637]:
+                  - menuitem "more" [ref=f3e638] [cursor=pointer]
+            - row [ref=f3e641]:
+              - gridcell "940834830100" [ref=f3e642]
+              - gridcell "T T" [ref=f3e643]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e644]
+              - gridcell "PO4 0JT" [ref=f3e645]
+              - gridcell "Accepted" [ref=f3e646]
+              - gridcell [ref=f3e647]:
+                - menu [ref=f3e648]:
+                  - menuitem "more" [ref=f3e649] [cursor=pointer]
+            - row [ref=f3e652]:
+              - gridcell "940834790100" [ref=f3e653]
+              - gridcell "Test Test" [ref=f3e654]
+              - gridcell "Top Flat, 158 Albert Road, Southsea, Hampshire, UNITED KINGDOM" [ref=f3e655]
+              - gridcell "PO4 0JT" [ref=f3e656]
+              - gridcell "Accepted" [ref=f3e657]
+              - gridcell [ref=f3e658]:
+                - menu [ref=f3e659]:
+                  - menuitem "more" [ref=f3e660] [cursor=pointer]
+            - row [ref=f3e663]:
+              - gridcell "940834780100" [ref=f3e664]
+              - gridcell "Test Test" [ref=f3e665]
+              - gridcell "Top Flat, 158 Albert Road, SOUTHSEA, Hampshire, UNITED KINGDOM" [ref=f3e666]
+              - gridcell "PO4 0JT" [ref=f3e667]
+              - gridcell "Accepted" [ref=f3e668]
+              - gridcell [ref=f3e669]:
+                - menu [ref=f3e670]:
+                  - menuitem "more" [ref=f3e671] [cursor=pointer]
+        - generic [ref=f3e678]:
+          - paragraph [ref=f3e679]: 1–10 of 517
+          - generic [ref=f3e680]:
+            - button "Go to previous page" [disabled]
+            - button "Go to next page" [ref=f3e681] [cursor=pointer]
+      - generic [ref=f3e684]:
+        - button "icon Snooze" [ref=f3e685] [cursor=pointer]:
+          - generic "icon" [ref=f3e687]:
+            - generic [aria-hidden] [ref=f3e688]: notifications_paused_icon
+          - generic [ref=f3e689]: Snooze
+        - button "Close" [ref=f3e690] [cursor=pointer]

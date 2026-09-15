@@ -1,0 +1,174 @@
+- generic [active] [ref=f7e1]:
+  - main [ref=f7e3]:
+    - generic [ref=f7e7]:
+      - img "Logo" [ref=f7e10] [cursor=pointer]
+      - generic [ref=f7e14]:
+        - button "Go to messages" [ref=f7e15] [cursor=pointer]:
+          - generic [ref=f7e16]: 99+
+        - generic [ref=f7e21]:
+          - generic [ref=f7e22]: You are logged in as 1305a
+          - generic [ref=f7e23]: Charmaine Of Southsea
+        - button "icon" [ref=f7e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f7e26]: person
+      - generic [ref=f7e28]:
+        - button "Open Order Calendar" [ref=f7e30] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f7e31]: event_calendar
+        - generic [ref=f7e32]: "75"
+    - generic [ref=f7e34]:
+      - generic [ref=f7e35]:
+        - separator [ref=f7e36]
+        - generic [ref=f7e37]:
+          - generic [ref=f7e38]:
+            - button "icon Create Order" [ref=f7e39] [cursor=pointer]:
+              - generic "icon" [ref=f7e41]:
+                - generic [aria-hidden] [ref=f7e42]: add_circle
+              - generic [ref=f7e43]: Create Order
+            - button [ref=f7e44] [cursor=pointer]
+          - link [ref=f7e48] [cursor=pointer]:
+            - /url: https://rose-portal-tst.interflorabeta.co.uk/interflora/mylogin/auth0/login.html
+            - button "icon IDD" [ref=f7e49]:
+              - generic "icon" [ref=f7e51]:
+                - generic [aria-hidden] [ref=f7e52]: public
+              - generic [ref=f7e53]: IDD
+          - link [ref=f7e55] [cursor=pointer]:
+            - /url: https://auth-tst.interflorabeta.co.uk/samlp/mncaaObwaBVvObIE4q8KVA1EpcQkWSoj
+            - button "icon Delivery" [ref=f7e56]:
+              - generic "icon" [ref=f7e58]:
+                - generic [aria-hidden] [ref=f7e59]: local_shipping_outlined
+              - generic [ref=f7e60]: Delivery
+          - link [ref=f7e62] [cursor=pointer]:
+            - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+            - button "Florist Hub" [ref=f7e63]
+        - separator [ref=f7e65]
+        - list [ref=f7e66]:
+          - generic [ref=f7e67]:
+            - listitem [ref=f7e68]:
+              - button "Dashboard" [ref=f7e69] [cursor=pointer]
+            - separator [ref=f7e75]
+          - generic [ref=f7e76]:
+            - listitem [ref=f7e77]:
+              - button "Orders" [ref=f7e78] [cursor=pointer]:
+                - button [ref=f7e84]
+            - generic [ref=f7e90]:
+              - listitem [ref=f7e92]:
+                - button "Create Order" [ref=f7e93] [cursor=pointer]
+              - listitem [ref=f7e100]:
+                - button "Orders Awaiting Acceptance" [ref=f7e101] [cursor=pointer]
+              - listitem [ref=f7e108]:
+                - button "Accepted Orders" [ref=f7e109] [cursor=pointer]
+              - listitem [ref=f7e116]:
+                - button "Deliveries" [ref=f7e117] [cursor=pointer]
+              - listitem [ref=f7e124]:
+                - button "All Orders" [ref=f7e125] [cursor=pointer]
+              - listitem [ref=f7e132]:
+                - button "Drafts" [ref=f7e133] [cursor=pointer]
+              - listitem [ref=f7e140]:
+                - button "Events" [ref=f7e141] [cursor=pointer]
+            - separator [ref=f7e147]
+          - generic [ref=f7e148]:
+            - listitem [ref=f7e149]:
+              - button "Reports" [ref=f7e150] [cursor=pointer]
+            - separator [ref=f7e156]
+          - generic [ref=f7e157]:
+            - listitem [ref=f7e158]:
+              - button "Customers" [ref=f7e159] [cursor=pointer]:
+                - button [ref=f7e165]
+            - separator [ref=f7e168]
+          - generic [ref=f7e169]:
+            - listitem [ref=f7e170]:
+              - button "Settings" [ref=f7e171] [cursor=pointer]:
+                - button [ref=f7e177]
+            - separator [ref=f7e180]
+          - generic [ref=f7e181]:
+            - listitem [ref=f7e182]:
+              - button "Store Management" [ref=f7e183] [cursor=pointer]:
+                - button [ref=f7e189]
+            - separator [ref=f7e192]
+        - generic [ref=f7e193]:
+          - separator [ref=f7e194]
+          - list [ref=f7e195]:
+            - listitem [ref=f7e196]:
+              - button "icon Live Chat" [ref=f7e197] [cursor=pointer]:
+                - generic "icon" [ref=f7e199]:
+                  - generic [aria-hidden] [ref=f7e200]: chat_bubble
+                - generic [ref=f7e201]: Live Chat
+      - main [ref=f7e202]:
+        - generic [ref=f7e205]:
+          - heading "View Orders" [level=3] [ref=f7e207]
+          - generic [ref=f7e208]:
+            - generic [ref=f7e209]:
+              - generic [ref=f7e213]:
+                - textbox "Search order number, last name, post code etc..." [ref=f7e214]
+                - button "search" [ref=f7e216] [cursor=pointer]
+                - group [aria-hidden]
+              - button "Clear all filters" [disabled] [ref=f7e220]
+            - generic [ref=f7e221]:
+              - generic [ref=f7e224]:
+                - generic: Status
+                - generic [ref=f7e225]:
+                  - combobox [ref=f7e226] [cursor=pointer]
+                  - textbox [aria-hidden]
+                  - group [aria-hidden]
+              - generic [ref=f7e229]:
+                - generic: Delivery Type
+                - generic [ref=f7e230]:
+                  - combobox [ref=f7e231] [cursor=pointer]
+                  - textbox [aria-hidden]
+                  - group [aria-hidden]
+              - generic [ref=f7e235]:
+                - textbox "Delivery Date" [ref=f7e236]
+                - group [aria-hidden]
+              - generic [ref=f7e241]:
+                - generic: Order Type
+                - generic [ref=f7e242]:
+                  - combobox "Order Type" [ref=f7e243] [cursor=pointer]
+                  - textbox [aria-hidden]
+                  - group [aria-hidden]
+              - button "Advanced search" [ref=f7e246] [cursor=pointer]
+          - generic [ref=f7e247]:
+            - generic [ref=f7e249]:
+              - button [ref=f7e252]:
+                - generic [ref=f7e254]:
+                  - combobox "Select a batch operation" [ref=f7e255] [cursor=pointer]
+                  - textbox [aria-hidden]
+                - generic "icon" [ref=f7e256]:
+                  - generic [aria-hidden] [ref=f7e257]: arrow_drop_down
+              - generic "Select an action from this drop down, once selected, you will see checkboxes for the orders which this action can be applied to. Then click Apply Changes when ready to proceed with the batch operation." [ref=f7e258]:
+                - generic [aria-hidden] [ref=f7e259] [cursor=pointer]: info
+            - generic [ref=f7e261]:
+              - generic [ref=f7e262]: Sort By
+              - generic [ref=f7e263]:
+                - combobox "Sort By Newest to Oldest" [ref=f7e264] [cursor=pointer]: Newest to Oldest
+                - textbox [aria-hidden]: CRATE_DATE_DESC
+                - group [aria-hidden]
+          - generic [ref=f7e266]:
+            - grid [ref=f7e267]:
+              - row [ref=f7e268]:
+                - columnheader "Order Number" [ref=f7e269] [cursor=pointer]
+                - columnheader "Delivery Type" [ref=f7e273] [cursor=pointer]
+                - columnheader "Delivery Date" [ref=f7e277] [cursor=pointer]
+                - columnheader "Recipient" [ref=f7e281] [cursor=pointer]
+                - columnheader "Address" [ref=f7e285] [cursor=pointer]
+                - columnheader "Product(s)" [ref=f7e289]
+                - columnheader "Status" [ref=f7e293] [cursor=pointer]
+                - columnheader [ref=f7e297]
+              - progressbar [ref=f7e303]
+              - rowgroup
+            - generic [ref=f7e311]:
+              - paragraph [ref=f7e312]: 0–0 of 0
+              - generic [ref=f7e313]:
+                - button "Go to previous page" [disabled]
+                - button "Go to next page" [disabled]
+    - generic [ref=f7e316]:
+      - paragraph [ref=f7e319]: © Interflora British Unit All Rights Reserved. Company reg. no. 297087
+      - generic [ref=f7e320]:
+        - link "Help" [ref=f7e323] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help
+        - link "Contact" [ref=f7e326] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help/contact
+        - link "Florist Hub" [ref=f7e329] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+        - generic [ref=f7e330]: IDD
+        - link "Privacy Policy" [ref=f7e335] [cursor=pointer]:
+          - /url: /page/privacy-policy
+  - alert [ref=f7e336]

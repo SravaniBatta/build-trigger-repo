@@ -1,0 +1,295 @@
+- generic [ref=f15e1]:
+  - main [ref=f15e3]:
+    - generic [ref=f15e7]:
+      - generic [ref=f15e9] [cursor=pointer]
+      - generic [ref=f15e12]:
+        - generic [ref=f15e13]:
+          - generic [ref=f15e17]:
+            - textbox [ref=f15e625]:
+              - /placeholder: Search order number, last name, post code etc...
+            - button [ref=f15e626] [cursor=pointer]
+            - group
+          - generic [ref=f15e23]:
+            - link [ref=f15e627] [cursor=pointer]:
+              - /url: https://test.cloudidd.com/autologin?user=KranthiD&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiS3JhbnRoaUQiLCJ1bml0X2lkIjoiMjEyIiwidW5pdElEIjoiMjEyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjpbIlVuaXRfTWFuYWdlciIsIlNlcnZpY2VfVXNlciIsIlVuaXRfQWRtaW4iLCJVbml0X1JldHJhbnMiLCJVbml0X0ZpbmFuY2lhbE1hbmFnZXIiLCJVbml0X1Byb2R1Y3RNYW5hZ2VyIiwiQ29udGVudF9BZG1pbiJdLCJleHAiOjE3ODkwNzM2OTEsImlzcyI6InN3YW4tYXBpIiwiYXVkIjoic3dhbi1jbGllbnRzIn0._V_gWA9Y-1Lj2_1wFdbRotUgIOfcT9SR1LVnzEYW_Eg
+              - button [ref=f15e628]:
+                - generic [ref=f15e352]: public
+                - generic [ref=f15e355]: IDD
+            - link [ref=f15e630] [cursor=pointer]:
+              - /url: https://auth-tst.interflorabeta.co.uk/samlp/mncaaObwaBVvObIE4q8KVA1EpcQkWSoj
+              - button [ref=f15e631]:
+                - generic [ref=f15e358]: local_shipping_outlined
+                - generic [ref=f15e361]: Delivery
+            - link [ref=f15e633] [cursor=pointer]:
+              - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+              - button [ref=f15e634]:
+                - generic [ref=f15e364]: Florist Hub
+        - generic [ref=f15e41]:
+          - button [ref=f15e635] [cursor=pointer]:
+            - generic [ref=f15e43]: 99+
+          - generic [ref=f15e48]:
+            - generic [ref=f15e49]: You are logged in as 1305a
+            - generic [ref=f15e50]: Charmaine Of Southsea
+          - button [ref=f15e636] [cursor=pointer]:
+            - generic [ref=f15e365]: person
+      - generic [ref=f15e55]:
+        - button [ref=f15e637] [cursor=pointer]:
+          - generic [ref=f15e58]: event_calendar
+        - generic [ref=f15e59]: "75"
+    - generic [ref=f15e61]:
+      - generic [ref=f15e62]:
+        - generic [ref=f15e63]:
+          - button [ref=f15e638] [cursor=pointer]:
+            - generic [ref=f15e65]: add_circle
+            - generic [ref=f15e68]: Create Order
+          - button [ref=f15e69] [cursor=pointer]
+        - separator [ref=f15e72]
+        - separator [ref=f15e73]
+        - list [ref=f15e74]:
+          - generic [ref=f15e75]:
+            - listitem [ref=f15e76]:
+              - button [ref=f15e640] [cursor=pointer]:
+                - generic [ref=f15e81]: Dashboard
+            - separator [ref=f15e83]
+          - generic [ref=f15e84]:
+            - listitem [ref=f15e85]:
+              - button [ref=f15e641] [cursor=pointer]:
+                - generic [ref=f15e90]: Orders
+                - button [ref=f15e92]
+            - separator [ref=f15e95]
+          - generic [ref=f15e96]:
+            - listitem [ref=f15e97]:
+              - button [ref=f15e642] [cursor=pointer]:
+                - generic [ref=f15e102]: Reports
+            - separator [ref=f15e104]
+          - generic [ref=f15e105]:
+            - listitem [ref=f15e106]:
+              - button [ref=f15e643] [cursor=pointer]:
+                - generic [ref=f15e111]: Customers
+                - button [ref=f15e113]
+            - separator [ref=f15e116]
+          - generic [ref=f15e117]:
+            - listitem [ref=f15e118]:
+              - button [ref=f15e644] [cursor=pointer]:
+                - generic [ref=f15e123]: Settings
+                - button [ref=f15e125]
+            - separator [ref=f15e128]
+          - generic [ref=f15e129]:
+            - listitem [ref=f15e130]:
+              - button [ref=f15e645] [cursor=pointer]:
+                - generic [ref=f15e135]: Store Management
+                - button [ref=f15e137]
+            - separator [ref=f15e140]
+        - generic [ref=f15e141]:
+          - separator [ref=f15e142]
+          - list [ref=f15e143]:
+            - listitem [ref=f15e144]:
+              - button [ref=f15e646] [cursor=pointer]:
+                - generic [ref=f15e146]: chat_bubble
+                - generic [ref=f15e149]: Live Chat
+      - main [ref=f15e150]:
+        - generic [ref=f15e368]:
+          - button [ref=f15e648] [cursor=pointer]:
+            - generic [ref=f15e649]: arrow_back
+            - generic [ref=f15e373]: Back
+          - generic [ref=f15e375]:
+            - generic [ref=f15e376]:
+              - generic [ref=f15e377]:
+                - generic [ref=f15e378]: Order Number
+                - text: "940836060100"
+              - generic [ref=f15e379]:
+                - generic [ref=f15e380]: Standard Delivery Charge
+                - generic [ref=f15e381]: awaiting acceptance
+                - generic [ref=f15e382]:
+                  - generic [ref=f15e650]: local_shipping
+                  - generic [ref=f15e385]: RELAY
+            - generic [ref=f15e387]:
+              - button [ref=f15e651] [cursor=pointer]:
+                - generic [ref=f15e389]: check_circle_outline_rounded_icon
+                - generic [ref=f15e392]: Accept
+              - button [ref=f15e653] [cursor=pointer]:
+                - generic [ref=f15e394]: cancel_outlined_icon
+                - generic [ref=f15e397]: Reject
+              - generic [ref=f15e398]:
+                - text: Actions
+                - button [expanded] [ref=f15e399] [cursor=pointer]
+          - generic [ref=f15e402]:
+            - generic [ref=f15e403]:
+              - generic [ref=f15e404]:
+                - generic [ref=f15e405]:
+                  - generic [ref=f15e408]: Product Details
+                  - generic [ref=f15e409]: Total Products in this order 1
+                - generic [ref=f15e412]:
+                  - generic [ref=f15e413]:
+                    - generic [ref=f15e414]: Card Message
+                    - generic [ref=f15e416]: N/A
+                  - generic [ref=f15e418]:
+                    - generic [ref=f15e419]: Florist Instructions
+                    - generic [ref=f15e421]: hgfh
+                - generic [ref=f15e423]:
+                  - generic [ref=f15e424]:
+                    - generic [ref=f15e427] [cursor=pointer]
+                    - generic [ref=f15e429]:
+                      - generic [ref=f15e430]:
+                        - generic [ref=f15e431]: Product Name
+                        - generic [ref=f15e432]: Beautiful Bright Bouquet
+                      - generic [ref=f15e433]:
+                        - generic [ref=f15e434]: Product Code
+                        - generic [ref=f15e435]: CCHTB0100
+                      - generic [ref=f15e436]:
+                        - generic [ref=f15e437]: Price
+                        - generic [ref=f15e438]: £42.00
+                  - heading [level=3] [ref=f15e656]:
+                    - button [ref=f15e657] [cursor=pointer]:
+                      - generic [ref=f15e442]: See more...
+              - generic [ref=f15e446]:
+                - heading [level=6] [ref=f15e658]: Order Activity
+                - list [ref=f15e451]:
+                  - heading [level=6] [ref=f15e659]: 08-Sep-2026
+                  - listitem [ref=f15e454]:
+                    - paragraph [ref=f15e456]: 12:48:47
+                    - paragraph [ref=f15e461]: Available to Executor
+                  - listitem [ref=f15e462]:
+                    - paragraph [ref=f15e464]: 12:48:45
+                    - paragraph [ref=f15e468]: Order Created By 0081A
+              - generic [ref=f15e469]:
+                - generic [ref=f15e470]: Financials
+                - generic [ref=f15e474]:
+                  - generic [ref=f15e475]:
+                    - generic [ref=f15e476]: Delivery Charge
+                    - generic [ref=f15e477]: Area Charge
+                    - generic [ref=f15e478]: Taxi Charge
+                    - generic [ref=f15e479]: Priority Delivery
+                    - generic [ref=f15e480]: Total
+                    - generic [ref=f15e481]: Total Cost
+                  - generic [ref=f15e482]:
+                    - generic [ref=f15e483]: £7.65
+                    - generic [ref=f15e484]: £5.00
+                    - generic [ref=f15e485]: £0
+                    - generic [ref=f15e486]: £0
+                    - generic [ref=f15e487]: £42.00
+                    - generic [ref=f15e488]: £49.65
+            - generic [ref=f15e489]:
+              - generic [ref=f15e490]:
+                - generic [ref=f15e491]: Recipient Details
+                - generic [ref=f15e495]:
+                  - generic [ref=f15e496]:
+                    - generic [ref=f15e497]: Delivery Date
+                    - generic [ref=f15e498]: Wednesday 9th September 2026
+                  - generic [ref=f15e499]:
+                    - generic [ref=f15e500]: Time Slot
+                    - generic [ref=f15e501]: 0800 - 1800
+                  - generic [ref=f15e502]:
+                    - generic [ref=f15e503]: Name
+                    - generic [ref=f15e504]: Dfgh Dfgh
+                  - generic [ref=f15e505]:
+                    - generic [ref=f15e506]: Tel No.
+                    - generic [ref=f15e507]: "8765432345678"
+                  - generic [ref=f15e508]:
+                    - generic [ref=f15e509]: Occasion
+                    - generic [ref=f15e510]: Anniversary
+                  - generic [ref=f15e511]:
+                    - generic [ref=f15e512]: Address
+                    - generic [ref=f15e513]:
+                      - listitem [ref=f15e514]: Top Flat, 158 Albert Road
+                      - listitem [ref=f15e515]: Southsea
+                      - listitem [ref=f15e516]: Hampshire
+                      - listitem [ref=f15e517]: PO4 0JT
+                      - listitem [ref=f15e518]: UNITED KINGDOM
+                      - button [ref=f15e660] [cursor=pointer]:
+                        - generic [ref=f15e521]: View on map
+                - generic [ref=f15e526]:
+                  - generic [ref=f15e527]: Delivery Instructions
+                  - generic [ref=f15e528]: N/A
+              - generic [ref=f15e530]:
+                - generic [ref=f15e531]: Customer Details
+                - generic [ref=f15e536]:
+                  - generic [ref=f15e537]: Name
+                  - link [ref=f15e661] [cursor=pointer]:
+                    - /url: /customers/customer?id=1cb46de7-6964-45d0-a4ab-ffcb127cd11c
+                    - generic [ref=f15e541]: Gf Gfg
+                - generic [ref=f15e542]:
+                  - generic [ref=f15e543]: Tel No.
+                  - button [ref=f15e662] [cursor=pointer]:
+                    - generic [ref=f15e546]: View phone number
+              - generic [ref=f15e547]:
+                - generic [ref=f15e548]:
+                  - generic [ref=f15e549]: Sender
+                  - generic [ref=f15e553]:
+                    - generic [ref=f15e554]:
+                      - generic [ref=f15e555]: Member No.
+                      - generic [ref=f15e556]: 0081A
+                    - generic [ref=f15e557]: Web Sales and Care
+                    - list [ref=f15e560]:
+                      - listitem [ref=f15e561]: SLEAFORD
+                      - listitem [ref=f15e562]: Lincolnshire
+                      - listitem [ref=f15e563]: NG34 7TB
+                      - listitem [ref=f15e564]: UNITED KINGDOM
+                    - generic [ref=f15e565]:
+                      - generic [ref=f15e566]: Tel No.
+                      - generic [ref=f15e567]: 0333 003 0983
+                - generic [ref=f15e568]:
+                  - generic [ref=f15e569]:
+                    - generic [ref=f15e570]:
+                      - text: Reference No.
+                      - generic [ref=f15e663]: info-outline
+                    - generic [ref=f15e574]: "52002441001"
+                  - generic [ref=f15e575]:
+                    - generic [ref=f15e576]:
+                      - text: Order No.
+                      - generic [ref=f15e665]: info-outline
+                    - generic [ref=f15e580]: "940836060100"
+                  - generic [ref=f15e581]:
+                    - generic [ref=f15e582]:
+                      - text: Original order No.
+                      - generic [ref=f15e667]: info-outline
+                    - generic [ref=f15e586]: "52002441001"
+                  - generic [ref=f15e587]:
+                    - generic [ref=f15e588]:
+                      - text: Order Pad No.
+                      - generic [ref=f15e669]: info-outline
+                    - generic [ref=f15e592]: N/A
+                  - generic [ref=f15e593]:
+                    - generic [ref=f15e594]: Payment type
+                    - generic [ref=f15e595]: N/A
+                  - generic [ref=f15e596]:
+                    - generic [ref=f15e597]: Order source
+                    - generic [ref=f15e598]: ORDERPUSH (interflora-co-uk)
+              - generic [ref=f15e600]:
+                - generic [ref=f15e601]: Executor
+                - generic [ref=f15e605]:
+                  - generic [ref=f15e606]:
+                    - generic [ref=f15e607]: Member No.
+                    - generic [ref=f15e608]: 1305A
+                  - generic [ref=f15e609]: Charmaine Of Southsea
+                  - list [ref=f15e612]:
+                    - listitem [ref=f15e613]: Portsmouth
+                    - listitem [ref=f15e614]: Hampshire
+                    - listitem [ref=f15e615]: PO4 0JT
+                  - generic [ref=f15e616]:
+                    - generic [ref=f15e617]: Tel No.
+                    - generic [ref=f15e618]: 07887 530 537
+    - generic [ref=f15e329]:
+      - paragraph [ref=f15e332]: © Interflora British Unit All Rights Reserved. Company reg. no. 297087
+      - generic [ref=f15e333]:
+        - link [ref=f15e671] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help
+          - text: Help
+        - link [ref=f15e672] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/help/contact
+          - text: Contact
+        - link [ref=f15e673] [cursor=pointer]:
+          - /url: https://it-technicalsuppor.wixstudio.com/floristhub-tst/membershome
+          - text: Florist Hub
+        - link [ref=f15e674] [cursor=pointer]:
+          - /url: https://test.cloudidd.com/autologin?user=KranthiD&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiS3JhbnRoaUQiLCJ1bml0X2lkIjoiMjEyIiwidW5pdElEIjoiMjEyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjpbIlVuaXRfTWFuYWdlciIsIlNlcnZpY2VfVXNlciIsIlVuaXRfQWRtaW4iLCJVbml0X1JldHJhbnMiLCJVbml0X0ZpbmFuY2lhbE1hbmFnZXIiLCJVbml0X1Byb2R1Y3RNYW5hZ2VyIiwiQ29udGVudF9BZG1pbiJdLCJleHAiOjE3ODkwNzM2OTEsImlzcyI6InN3YW4tYXBpIiwiYXVkIjoic3dhbi1jbGllbnRzIn0._V_gWA9Y-1Lj2_1wFdbRotUgIOfcT9SR1LVnzEYW_Eg
+          - text: IDD
+        - link [ref=f15e675] [cursor=pointer]:
+          - /url: /page/privacy-policy
+          - text: Privacy Policy
+  - alert [ref=f15e349]
+  - menu [ref=f15e678]:
+    - menuitem "Accept" [ref=f15e680] [cursor=pointer]
+    - menuitem "Reject" [ref=f15e682] [cursor=pointer]
+    - menuitem "Interbranch" [ref=f15e684] [cursor=pointer]
+    - menuitem "Send message" [ref=f15e686] [cursor=pointer]
